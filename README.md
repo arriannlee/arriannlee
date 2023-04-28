@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Arriann Lee!</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from the UK.</h3>
+<h1 align="left">Hi 👋 I'm Arriann Lee!</h1>
+<h3 align="left">A passionate Full Stack Software Engineer from the UK.</h3>
 
 - 👨‍💻 All of my projects are available at [arriannlee.com](arriannlee.com)
 
