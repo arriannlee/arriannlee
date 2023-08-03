@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [arriannlee.com](arriannlee.com)
 
-- 📫 How to reach me **hello@arriannlee.com**
+- 📫 How to reach me **arriann.lee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
